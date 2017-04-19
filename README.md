@@ -1,7 +1,8 @@
 # fromflux/favicon-generator
-Bash script to generate range of favicon files from input image
+Bash script to generate range of favicon files from input image using ImageMagick
 
 ## Installation
+* Install ImageMagick (https://www.imagemagick.org)
 * Copy `favicon` to a `PATH` covered directory, for example `~/scripts` and `export PATH="$PATH:~/scripts"`
 * Make `favicon` executable: `chmod +x favicon`
 
